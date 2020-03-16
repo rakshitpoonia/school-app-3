@@ -1,0 +1,27 @@
+.Heading{
+    border:solid;
+    background-color:cyan;
+    display:flex;
+    justify-content:space-evenly;
+}
+.Image{
+    border:solid;
+    background-color: #FF8BAD;
+    display:flex;
+    justify-content:space-evenly;
+}
+.news{
+    border:solid;
+    justify-content:center;
+    background-color:#1EFF9B;
+}
+.admission{
+    border:solid;
+    background-color:#FD87C5;
+}
+.social{
+    border:solid;
+    display:flex;
+    justify-content:center;
+    background-color:#a9aeDf;
+}
